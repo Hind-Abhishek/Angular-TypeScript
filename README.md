@@ -53,7 +53,7 @@ Before you begin, make sure you have the following installed:
 ## Step 1: Clone the Repository
 To get a copy of the project, run the following command:
 ```bash
-git clone <your-github-repo-url>
+git clone git@github.com:Hind-Abhishek/Angular-TypeScript.git
 
 cd <frontend-directory>
 cd <backend-directory>
